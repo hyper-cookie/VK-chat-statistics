@@ -31,7 +31,7 @@ There are many ways to launch the analysis:
 Remember, words "Start Analysis" must be written firstly!
 
 ---
-Results:
+My results in my chat:
 ![7FKHnSWhaIU](https://user-images.githubusercontent.com/62260405/114281291-3dca7a00-9a46-11eb-9221-43793ede88e1.jpg)
 ![AzSZW3Cz4l8](https://user-images.githubusercontent.com/62260405/114281314-4e7af000-9a46-11eb-8a63-81814773cc94.jpg)
 ![pkvR-cON_TI](https://user-images.githubusercontent.com/62260405/114281317-5044b380-9a46-11eb-9a80-4ac20ac82e45.jpg)
