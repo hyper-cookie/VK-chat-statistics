@@ -18,7 +18,7 @@ What you need to start:
 - Launch "Collector.py" file and you are ready to start!
 
 ---
-There are many ways to launch the program:
+There are many ways to launch the analysis:
 - If you want to analysis ALL history of your messages, then just write "Start Analysis", like here:
 ![image](https://user-images.githubusercontent.com/62260405/114281015-aa447980-9a44-11eb-8fc6-2765d45dfa30.png)
 - If you want to set date-borders of analysis, then you must write firstly "Start Analysis" and then add "from *year/month/day* to *year/month/day*", like here:
@@ -27,6 +27,12 @@ There are many ways to launch the program:
 ![image](https://user-images.githubusercontent.com/62260405/114281100-17f0a580-9a45-11eb-8904-3859a24410be.png)
 
 Remember, words "Start Analysis" must be written firstly!
+
+---
+Results:
+![7FKHnSWhaIU](https://user-images.githubusercontent.com/62260405/114281291-3dca7a00-9a46-11eb-9221-43793ede88e1.jpg)
+![AzSZW3Cz4l8](https://user-images.githubusercontent.com/62260405/114281314-4e7af000-9a46-11eb-8a63-81814773cc94.jpg)
+![pkvR-cON_TI](https://user-images.githubusercontent.com/62260405/114281317-5044b380-9a46-11eb-9a80-4ac20ac82e45.jpg)
 
 ---
 I would be very thanksfull if you can help to improve my code or give me some advices. Pleasant use for you!
