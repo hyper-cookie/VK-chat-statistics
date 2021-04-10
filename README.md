@@ -1,6 +1,7 @@
 # VK-chat-statistics
 The project collects statistics of messages in russian social network "VK" (VKontakte) chats.
 If you want to know the top of words which were used in your chats, the top of users who were chatting more or the activity per day, then you can use this program!
+Be accurate if you launch this program on not-strong computer and you want to analysis a big history of chat.
 
 ---
 Which modules to start:
