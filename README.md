@@ -19,7 +19,7 @@ What you need to start:
 
 ---
 There are many ways to launch the analysis:
-- If you want to analysis ALL history of your messages, then just write "Start Analysis", like here:
+- If you want to analysis ALL history of your messages, then just write "Start Analysis" (you should write directions in the chat where your bot has been added), like here:
 ![image](https://user-images.githubusercontent.com/62260405/114281015-aa447980-9a44-11eb-8fc6-2765d45dfa30.png)
 - If you want to set date-borders of analysis, then you must write firstly "Start Analysis" and then add "from *year/month/day hours:minuts* to *year/month/day hours:minuts*", like here:
 ![image](https://user-images.githubusercontent.com/62260405/114281058-e1b32600-9a44-11eb-9090-3a22a88b78b1.png)
