@@ -1,0 +1,2 @@
+GROUP_TOKEN = "#"
+GROUP_ID = 1
